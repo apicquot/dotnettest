@@ -1,0 +1,7 @@
+testdotnet.csproj
+.vscode/
+build/
+bin/
+debug/
+release/
+obj/
